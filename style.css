@@ -1,0 +1,68 @@
+h1 {
+    margin-top: 65px;
+    background-color: rgb(231, 181, 181);
+    padding: 20px;    
+}
+
+.headingStyle {
+    color: rgb(3, 71, 92);
+    font-family: cursive;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: center;
+}
+
+.summary {
+    width: 500px;
+    height: auto;
+
+    border: 2px solid rgb(11, 62, 110);
+    border-radius: 10px;
+
+    margin: 90px;
+    padding: 30px;
+    float: right;
+
+    background-color: rgb(219, 188, 188);
+
+    word-spacing: 2px;
+}
+
+.lists {
+    width: 300px;
+    height: auto;
+
+    border: 2px solid rgb(11, 62, 110);
+    border-radius: 10px;
+
+    margin: 100px;
+    padding: 30px;
+    float: right;
+
+    background-color:rgb(219, 188, 188);
+
+ 
+}
+
+.spacing {
+    word-spacing: 20px;
+}
+
+.profilePic {
+    width: 350px;
+    height: auto;
+    border-radius: 20%;
+    border: 2px solid rgb(11, 62, 110);
+    margin: 80px;
+}
+
+body {
+    background-color: rgb(179, 144, 144);
+}
+
+hr {
+    border-width: 2px;
+    margin: 2px;
+    padding: 2px;
+
+}
